@@ -106,6 +106,7 @@ During maintenance, update instances in one AZ while the other handles traffic, 
 ---
 
 ## 1.3 Subnet Architecture and Network Segmentation
+<br><br>
 
 ![Alt text description](images/QuickNote_AWS_Architecture_Diagram.drawio.png)
 
